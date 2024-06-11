@@ -11,10 +11,10 @@ This Python script is designed to process legal case data from an Excel file. It
 5. Categorization: Categorizes cases based on their age and outputs separate files for each category.
 ## Prerequisites
 Before running this script, ensure you have these installed:
-Python 3.x
-Pandas library
-NumPy library
-Matplotlib library
+- Python 3.x
+- Pandas library
+- NumPy library
+- Matplotlib library
 An Excel file with legal case data named RRT data.xlsx located in the /content/ directory.
 
 You can install the necessary Python libraries using pip:
